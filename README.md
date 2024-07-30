@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CherryPy , Django**
 
-- 🤝 I’m looking for help with [Rendream](https://rendream.com/)
+- 🤝 I’m looking for help with [Circtek](https://remarketed.com/)
 
 - 📝 I regularly write articles on [https://www.djangoproject.com/community/blogs/](https://www.djangoproject.com/community/blogs/)
 
